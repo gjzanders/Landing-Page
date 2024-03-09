@@ -4,3 +4,16 @@
     background-color: #1F2937;
     color: white;
 }
+#logo {
+    font: 24px #F9FAF8;
+}
+#links{
+    text-align: right;
+}
+.mid {
+    display: flex;
+    flex-direction: column;
+}
+.subtext{
+    font: 18px #E5E7EB;
+}
