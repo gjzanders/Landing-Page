@@ -19,6 +19,7 @@
 }
 button {
     background-color: #3882f6;
-    font-style: white bold;
-    border-radius: 12px;
+    color: white;
+    font: 12px extra-bold white;
+    border-radius: 6px;
 }
